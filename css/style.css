@@ -1,0 +1,37 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #99dae2;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #7fd6f8;
+    color: rgb(3, 3, 3);
+}
+.section {
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(202, 202, 202, 0.514);
+    border-radius: 8px;
+}
+.img{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(196, 235, 201, 0.514);
+    border-radius: 8px;
+}
+.habilidades{
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(202, 202, 202, 0.514);
+    border-radius: 1px;
+
+}
+h2 {
+    color: #007BFF;
+}
